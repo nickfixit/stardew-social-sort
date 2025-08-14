@@ -1,7 +1,7 @@
 {
   "Name": "Custom Social Sort",
   "Author": "nickfixit",
-  "Version": "1.0.2-test",
+  "Version": "1.0.3-working",
   "Description": "Allows custom drag-and-drop sorting for the Social tab.",
   "UniqueID": "nickfixit.CustomSocialSort",
   "EntryDll": "CustomSocialSort.dll",
