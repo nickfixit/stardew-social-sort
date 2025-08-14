@@ -1,0 +1,25 @@
+# Build outputs
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compilation stubs (not needed for distribution)
+Stubs/
+lib/
+
+# IDE files
+.vs/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
